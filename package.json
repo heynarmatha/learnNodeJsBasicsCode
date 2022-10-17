@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^6.6.5"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.5"
   }
 }
