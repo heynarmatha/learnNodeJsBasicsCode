@@ -8,3 +8,8 @@ logger.on("message", function (event) {
 });
 
 logger.log("message");
+
+// output
+
+// message
+// Passing Data { id: 1, url: 'http' } **** This is coming from --- eventPassing.js----
